@@ -11,5 +11,4 @@ else
 {
 Console.WriteLine("Первое число меньше второго второго!");
 }
-
 Console.Write("The End");
