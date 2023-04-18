@@ -11,11 +11,11 @@ for (int i = 1; i<=num; i++)
 }
 
                         //Для цикла while
-Console.WriteLine("Ведите цифру");
-int n = Convert.ToInt32(Console.ReadLine());
-int ii = 1;
-while (ii<=num)
-{
-    Console.WriteLine(Math.Pow(ii,3));
-    ii++;
-}
+                        // Console.WriteLine("Ведите цифру");
+                        // int n = Convert.ToInt32(Console.ReadLine());
+                        // int ii = 1;
+                        // while (ii<=num)
+                        // {
+                        //     Console.WriteLine(Math.Pow(ii,3));
+                        //     ii++;
+                        // }
